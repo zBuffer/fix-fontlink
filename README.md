@@ -7,7 +7,7 @@ This program is written to fix the display of Chinese font on Windows 10/Windows
 When displaying Simplified Chinese characters, Windows Font Linking by default falls back to Japanese font (Meiryo), 
 then Traditional Chinese font (JhengHei), then Simplified Chinese font (YaHei).
 
-Because the above fonts do not have a consistent size and weight, the display of Simplified Chinese characters are ugly 
+Because the above fonts do not have a consistent size and weight, the display of Simplified Chinese characters is ugly 
 when there is a different mix of fonts involved.
 
 This problem was not present when Microsoft had license for the Arial Unicode font.
